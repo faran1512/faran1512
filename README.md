@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am a Computer Science Student interested in Computer Security.\
+I hold a Bachelors degree in Computer Science interested in Computer Security.\
 🔭Working on:
 
 - Exploit Development
-- Security Research
+- Vulberability Research
 
 <!--
 **faran1512/faran1512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
