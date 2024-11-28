@@ -3,8 +3,8 @@
 I hold a Bachelors degree in Computer Science interested in Computer Security.\
 🔭Working on:
 
+- Vulnerability Research
 - Exploit Development
-- Vulberability Research
 
 <!--
 **faran1512/faran1512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
